@@ -1,0 +1,42 @@
+body{
+background-color:grey;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top:20px;
+    width: 30%;
+  }
+  img{
+    border:5px solid #555;
+    }
+    .topright{
+        position:absolute;
+        top: 8px;
+        left: 16px;
+
+    }
+.topletf{
+position:absolute;
+top: 8px;
+right: 16px;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width:5%;
+}
+.oncenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top:300px;
+    width: 10%;
+  
+}
